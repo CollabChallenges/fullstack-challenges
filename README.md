@@ -52,7 +52,7 @@ Feel free to contribute! Only open-source challenges please!
 
 ## Inspiration
 
-Inspired on [devops-challenges](https://github.com/TomiwaAribisala-git/devops-challenges)'s [backend-challenges](https://github.com/TomiwaAribisala-git/devops-challenges). Kudos!
+Inspired on [devops-challenges](https://github.com/TomiwaAribisala-git)'s [backend-challenges](https://github.com/TomiwaAribisala-git/devops-challenges). Kudos!
 
 ## License
 
