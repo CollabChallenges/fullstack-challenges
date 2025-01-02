@@ -48,7 +48,7 @@ Feel free to contribute! Only open-source challenges please!
 | :switzerland: | [Nanocorp](http://Nanos.ai) | ReactJS/Angular, React Native, NodeJS/Python/Golang | [Code →](https://github.com/nanosapp/fullstack-dev-assessment)
 | :brazil: | [Advance](http://advance.com.br) |  HTML, CSS, Javascript | [Code →](https://github.com/penseadvance/full-stack-test)
 | :uk: | [CBF Academy](https://codingblackfemales.com/) | React, Nodejs, MongoDB | [Code →](https://github.com/cbfacademy/full-stack-javascript-assessment-ShakaLondon)
-| :uk: | [EMIS Group](https://github.com/emisgroup) | React, Java/Python/JavaScript/Typescript, MongoDB/MySql/Postgres/SQLServerExpress/Filesystem | [Code →](https://github.com/emisgroup/exa-fullstack-assessment)
+| :uk: | [EMIS Group](https://github.com/emisgroup) | React, Java/Python/JavaScript/Typescript, MongoDB/MySql/PostgreSQL | [Code →](https://github.com/emisgroup/exa-fullstack-assessment)
 
 ## Inspiration
 
