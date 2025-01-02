@@ -52,7 +52,7 @@ Feel free to contribute! Only open-source challenges please!
 
 ## Inspiration
 
-Inspired on [devops-challenges](https://github.com/TomiwaAribisala-git)'s [backend-challenges](https://github.com/TomiwaAribisala-git/devops-challenges). Kudos!
+Inspired on [CollabCodeTech](https://github.com/CollabCodeTech)'s [backend-challenges](https://github.com/CollabCodeTech/backend-challenges). Kudos!
 
 ## License
 
