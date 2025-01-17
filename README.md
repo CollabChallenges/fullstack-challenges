@@ -37,7 +37,7 @@ Feel free to contribute! Only open-source challenges please!
 | :jp: | [KINCHAKU](https://kinchaku.com) | PHP, Laravel | [Code →](https://github.com/SeteMares/full-stack-test)
 | :netherlands: | [TNW](https://thenextweb.com) | PHP | [Code →](https://github.com/thenextweb/developertest-fullstack)
 | :australia: | [Infoxchange](https://www.infoxchange.org) | React, Python, Django | [Code →](https://github.com/infoxchange/full-stack-developer-challenge)
-| :italy: | [Meblabs](http://www.meblabs.com) | Node.JS, React, Docker | [Code →](https://github.com/meblabs/fullstack-test)
+| :it: | [Meblabs](http://www.meblabs.com) | Node.JS, React, Docker | [Code →](https://github.com/meblabs/fullstack-test)
 | :brazil: | [Coderockr](http://www.coderockr.com) | Any Stack | [Code →](https://github.com/Coderockr/fullstack-test)
 | :tu: | [Teknasyon](https://teknasyon.com/) | React, JavaScript/TypeScript | [Code →](https://github.com/Teknasyon/assessments-react-full-stack)
 | :uk: | [Altruistiq](https://altruistiq.com) | React/VueJS, Javascript | [Code →](https://github.com/Altruistiq/aq-fullstack-take-home-assessment)
