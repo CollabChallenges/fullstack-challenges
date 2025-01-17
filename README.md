@@ -22,7 +22,7 @@ Feel free to contribute! Only open-source challenges please!
 | :us: | [Unbabel](https://unbabel.com/) | Python, Flask, PostgreSQL | [Code →](https://github.com/Unbabel/fullstack-coding-challenge)
 | :brazil: | [Pluggy]( https://pluggy.ai) | React, Node.JS, TypeScript | [Code →](https://github.com/pluggyai/full-stack-engineer-assignment)
 | :singapore: | [GuardRails](https://guardrails.io) | React, Node.JS, Docker, Docker Compose | [Code →](https://github.com/guardrailsio/full-stack-engineer-challenge)
-| :ge: | [Magicul](https://magicul.io) | Nodejs, Nextjs, PostgreSQL | [Code →](https://github.com/XD2Sketch/full-stack-coding-challenge)
+| :gr: | [Magicul](https://magicul.io) | Nodejs, Nextjs, PostgreSQL | [Code →](https://github.com/XD2Sketch/full-stack-coding-challenge)
 | :us: | [Rocket Communications](https://www.rocketcom.com/) | Ruby/Python, Any Database | [Code →](https://github.com/RocketCommunicationsInc/Full-Stack-Developer-Coding-Challenge)
 | :uk: | [MoonPay](https://www.moonpay.com) | HTML, CSS, JavaScript, Node.js and SQL | [Code →](https://github.com/gradam/full-stack-challenge)
 | :qatar: | [Tap Payments](https://www.tap.company) | HTML, CSS, JavaScript and React | [Code →](https://github.com/Tap-Payments/FullStack-React-Assignment)
