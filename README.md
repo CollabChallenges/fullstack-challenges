@@ -49,6 +49,12 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [Advance](http://advance.com.br) |  HTML, CSS, Javascript | [Code →](https://github.com/penseadvance/full-stack-test)
 | :uk: | [CBF Academy](https://codingblackfemales.com/) | React, Nodejs, MongoDB | [Code →](https://github.com/cbfacademy/full-stack-javascript-assessment-ShakaLondon)
 | :uk: | [EMIS Group](https://github.com/emisgroup) | React, Java/Python/JavaScript, MongoDB/PostgreSQL | [Code →](https://github.com/emisgroup/exa-fullstack-assessment)
+| :uk: | [Datapane](https://github.com/datapane) | React, Vue, Python, Django | [Code →](https://github.com/datapane/mpa-hiring-challenge)
+| :uk: | [BBC](https://bbc.co.uk/opensource/) | Javascript | [Code →](https://github.com/bbc/software-engineering-technical-assessments)
+| :austria: | [fiskaly](https://fiskaly.com) | React, Typescript, Postgres | [Code →](https://github.com/fiskaly/coding-challenges/tree/main/crm-challenge-ts)
+| :nigeria: | [Worksquare](http://work.tribesquare.co) | React, Vue, Angular, Node.js/Laravel/Django/Flask | [Code →](https://github.com/Worksquare/worksquare-fullstack-task)
+| :us: | [Sym](https://symops.com) | React, Ruby | [Code →](https://github.com/symopsio/fullstack-challenge)
+| :us: | [Unbabel](https://unbabel.com/) | Python, Postgres | [Code →](https://github.com/Unbabel/backend-coding-challenge)
 
 ## Inspiration
 
